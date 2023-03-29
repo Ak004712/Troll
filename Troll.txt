@@ -1,5 +1,4 @@
 setTimeout(go, 3000)
-
-function go() {
-        alert("А вот хуй тебе")
+function go () {
+    alert("А вот хуй тебе")
 }
